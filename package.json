@@ -1,0 +1,15 @@
+{
+  "name": "spinning-pedagogy",
+  "version": "1.0.0",
+  "description": "website for 돌아가는 페다고지 (spinning pedagogy)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
